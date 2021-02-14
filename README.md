@@ -1,9 +1,9 @@
 # Google-Foobar
 \
 My [Google-Foobar](foobar.withgoogle.com) Challenges from 02/13/21 - Present  
-\ 
+
 ## Level 1
-### [Challenge 1 (theCakeIsNotALie)](1%)%20theCakeIsNotALie)
+### [Challenge 1 (theCakeIsNotALie)](1\)%20theCakeIsNotALie)
 \
 This challenge was decently easy, however I did overthink and try to use some unnecessary methods. However we got there at the end.
 
